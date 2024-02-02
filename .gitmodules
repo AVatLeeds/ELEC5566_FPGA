@@ -1,0 +1,3 @@
+[submodule "ELEC5566M-Resources"]
+	path = ELEC5566M-Resources
+	url = https://github.com/leeds-embedded-systems/ELEC5566M-Resources.git
