@@ -4,3 +4,6 @@
 [submodule "ELEC5566M-Unit1-AVatLeeds"]
 	path = ELEC5566M-Unit1-AVatLeeds
 	url = git@github.com:leeds-embedded-systems/ELEC5566M-Unit1-AVatLeeds.git
+[submodule "ELEC5566M-Unit2-AVatLeeds"]
+	path = ELEC5566M-Unit2-AVatLeeds
+	url = git@github.com:leeds-embedded-systems/ELEC5566M-Unit2-AVatLeeds.git
